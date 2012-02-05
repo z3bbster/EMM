@@ -40,8 +40,8 @@ Todo List
 
 Change Log
 ----------
-+V 0.0.2 Alpha - Added Vanilla server creation & updated readme.md.
-+V 0.0.1 Alpha - Added bat script & readme.md file.
++ V 0.0.2 Alpha - Added Vanilla server creation & updated readme.md.
++ V 0.0.1 Alpha - Added bat script & readme.md file.
 
 
 Bug tracker
