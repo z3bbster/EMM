@@ -1,7 +1,7 @@
 EMM - Easy Multiple Minecraft  
 =================
 
-EMM helps you to manage/run multible minecraft client and server versions on your Windows 7 computer. Create new client or server instances on the fly which automaticly download all required files! All files and folders are easly located in a single custom folder on your system.
+EMM helps you to manage/run multible [Minecraft](http://www.minecraft.net/) client and server versions on your Windows 7/XP computer. Create new client or server instances on the fly which automaticly download all required files! All files and folders are easly located in a single custom folder on your system. You can use it even when minecraft is already installed!
 
 To get started -- checkout http://z3bbster.github.com/EMM/wiki
 
@@ -9,7 +9,7 @@ To get started -- checkout http://z3bbster.github.com/EMM/wiki
 Usage
 -----
 
-You can use EMM for minecraft playing/testing of texturepacks, mods, modpacks, older clients versions. Create as many client and/or server instances with the startup script(s). Currently support for downloading Minecraft launcher, Minecraft vanilla Server, Bukkit Server.
+You can use EMM for minecraft playing/testing of texturepacks, mods, modpacks, older clients versions. Create as many client and/or server instances with the startup script. Currently support for downloading Minecraft [Client launcher](http://www.minecraft.net/download), Minecraft [Vanilla Server](http://www.minecraft.net/download), [Bukkit](http://bukkit.org/) Server. For vanilla and bukkit server instances you can add server properties such as seed,server name, motd upfront creating them.
 
 For more information about setting up and creating new client/server instances, refer to the easy instructions given inside this script!
 
@@ -61,11 +61,11 @@ Use either option 2 or 3 in main menu to add client/server new instances. Every 
 
 Todo List
 ---------
+
 + Create Bukkit server feature.
 + Check for installment before creating an new instance.
 + Create custom backup startup for every instance.
 + Add seperate .cfg file.
-
 + Add Browse to EMM root folder.
 
 
@@ -94,10 +94,10 @@ Authors and Contributors
 + http://www.minecraftforum.net/user/298478-z3bbster/
 
 
-
-
 License
 ---------------------
+
+Copyright 2011 z3bbster
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this work except in compliance with the License.
@@ -113,4 +113,4 @@ limitations under the License.
 
 * * *
 
-Copyright 2011 z3bbster
+EMM makes your Minecraft life easer!
